@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin kushs-mac.lan 22.0.0 Darwin Kernel Version 22.0.0: Mon Aug  1 06:32:20 PDT 2022; root:xnu-8792.0.207.0.6~26/RELEASE_ARM64_T6000 arm64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.33.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Aug  1 2022 03:47:28)
+CURL:	[/usr/bin/curl] curl 7.83.1 (x86_64-apple-darwin22.0) libcurl/7.83.1 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/kush/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
